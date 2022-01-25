@@ -22,6 +22,7 @@ else if (fieldinfo.FieldType == typeof(DateTime))
 - Oculus Integration: https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022
 - Free Fantasy Medieval Houses and Props Pack: https://assetstore.unity.com/packages/3d/environments/fantasy/free-fantasy-medieval-houses-and-props-pack-167010
 - Polygonal Foliage Asset Package: https://assetstore.unity.com/packages/3d/environments/polygonal-foliage-asset-package-133037
+- If you have problems with the Python for Unity asset (https://docs.unity3d.com/Packages/com.unity.scripting.python@4.0/manual/installation.html), e.g. python installation exception, it can be removed
 
 Already Integrated Assets:
 - Heatmap edited implementation: https://unitycodemonkey.com/video.php?v=mZzZXfySeFQ
