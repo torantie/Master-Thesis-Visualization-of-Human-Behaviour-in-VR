@@ -4,6 +4,21 @@ This project contains the code and example data used in my master thesis "Visual
 ## Setup
 Needed Assets:
 - Csv Serialize: https://assetstore.unity.com/packages/tools/integration/csv-serialize-135763
+ - in the "CSVSerializer.cs" insert into the method "SetValue":
+```
+else if (fieldinfo.FieldType == typeof(Guid))
+{
+	fieldinfo.SetValue(v, Guid.Parse(value));
+}
+else if (fieldinfo.FieldType == typeof(DateTime))
+{
+	if (!DateTime.TryParseExact(value, "MM/dd/yyyy HH:mm:ss.fff", CultureInfo.CurrentCulture, DateTimeStyles.RoundtripKind, out var result))
+	{
+		result = DateTime.Parse(value, CultureInfo.CurrentCulture, DateTimeStyles.RoundtripKind);
+	}
+	fieldinfo.SetValue(v, result);
+}
+```
 - Oculus Integration: https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022
 - Free Fantasy Medieval Houses and Props Pack: https://assetstore.unity.com/packages/3d/environments/fantasy/free-fantasy-medieval-houses-and-props-pack-167010
 
