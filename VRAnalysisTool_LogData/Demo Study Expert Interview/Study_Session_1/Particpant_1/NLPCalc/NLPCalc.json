@@ -1,0 +1,400 @@
+{
+    "items": [
+        {
+            "taskId": "1",
+            "participantId": "1",
+            "sessionId": "1",
+            "position": "(5.1, 1.6, -66.0)",
+            "spokenText": "Was tut den ein schaaf hier, dass ist ja komisch.",
+            "confidenceLevel": 1.0,
+            "averageSentiment": 0,
+            "endPosition": "(5.1, 1.6, -66.0)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "Was tut den ein schaaf hier, dass ist ja komisch.",
+                    "sentiment": 2
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "Was",
+                    "occurrence": 1
+                },
+                {
+                    "word": "tut",
+                    "occurrence": 1
+                },
+                {
+                    "word": "den",
+                    "occurrence": 1
+                },
+                {
+                    "word": "ein",
+                    "occurrence": 1
+                },
+                {
+                    "word": "schaaf",
+                    "occurrence": 1
+                },
+                {
+                    "word": "hier",
+                    "occurrence": 1
+                },
+                {
+                    "word": "dass",
+                    "occurrence": 1
+                },
+                {
+                    "word": "ist",
+                    "occurrence": 1
+                },
+                {
+                    "word": "ja",
+                    "occurrence": 1
+                },
+                {
+                    "word": "komisch",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "1",
+            "sessionId": "1",
+            "position": "(-27.6, 1.7, -42.8)",
+            "spokenText": "hm verwirrend.",
+            "confidenceLevel": 1.0,
+            "averageSentiment": 0,
+            "endPosition": "(-26.2, 1.7, -46.6)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "hm verwirrend.",
+                    "sentiment": 2
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "hm",
+                    "occurrence": 1
+                },
+                {
+                    "word": "verwirrend",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "1",
+            "sessionId": "1",
+            "position": "(-23.2, 1.7, -63.9)",
+            "spokenText": "Die Steine sehen jetzt noicht so realistisch aus.",
+            "confidenceLevel": 1.0,
+            "averageSentiment": 0,
+            "endPosition": "(-13.0, 1.7, -65.7)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "Die Steine sehen jetzt noicht so realistisch aus.",
+                    "sentiment": 2
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "Die",
+                    "occurrence": 1
+                },
+                {
+                    "word": "Steine",
+                    "occurrence": 1
+                },
+                {
+                    "word": "sehen",
+                    "occurrence": 1
+                },
+                {
+                    "word": "jetzt",
+                    "occurrence": 1
+                },
+                {
+                    "word": "noicht",
+                    "occurrence": 1
+                },
+                {
+                    "word": "so",
+                    "occurrence": 1
+                },
+                {
+                    "word": "realistisch",
+                    "occurrence": 1
+                },
+                {
+                    "word": "aus",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "1",
+            "sessionId": "1",
+            "position": "(-21.7, 1.6, -83.0)",
+            "spokenText": "Ah cool.",
+            "confidenceLevel": 1.0,
+            "averageSentiment": 0,
+            "endPosition": "(-21.7, 1.6, -83.2)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "Ah cool.",
+                    "sentiment": 1
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "Ah",
+                    "occurrence": 1
+                },
+                {
+                    "word": "cool",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "1",
+            "sessionId": "1",
+            "position": "(-30.8, 1.7, -87.3)",
+            "spokenText": "Oh das Haus ist sch�n.",
+            "confidenceLevel": 1.0,
+            "averageSentiment": 0,
+            "endPosition": "(-33.9, 1.7, -99.2)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "Oh das Haus ist sch�n.",
+                    "sentiment": 2
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "Oh",
+                    "occurrence": 1
+                },
+                {
+                    "word": "das",
+                    "occurrence": 1
+                },
+                {
+                    "word": "Haus",
+                    "occurrence": 1
+                },
+                {
+                    "word": "ist",
+                    "occurrence": 1
+                },
+                {
+                    "word": "sch",
+                    "occurrence": 1
+                },
+                {
+                    "word": "�",
+                    "occurrence": 1
+                },
+                {
+                    "word": "n",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "1",
+            "sessionId": "1",
+            "position": "(-28.1, 1.7, -103.3)",
+            "spokenText": "Kann man da reingehen.",
+            "confidenceLevel": 1.0,
+            "averageSentiment": 0,
+            "endPosition": "(-21.7, 2.5, -100.6)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "Kann man da reingehen.",
+                    "sentiment": 1
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "Kann",
+                    "occurrence": 1
+                },
+                {
+                    "word": "man",
+                    "occurrence": 1
+                },
+                {
+                    "word": "da",
+                    "occurrence": 1
+                },
+                {
+                    "word": "reingehen",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "1",
+            "sessionId": "1",
+            "position": "(-21.7, 2.5, -100.6)",
+            "spokenText": "Oh cool nice.",
+            "confidenceLevel": 1.0,
+            "averageSentiment": 0,
+            "endPosition": "(-21.7, 2.5, -100.5)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "Oh cool nice.",
+                    "sentiment": 1
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "Oh",
+                    "occurrence": 1
+                },
+                {
+                    "word": "cool",
+                    "occurrence": 1
+                },
+                {
+                    "word": "nice",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "1",
+            "sessionId": "1",
+            "position": "(19.6, 1.6, -100.7)",
+            "spokenText": "Das war einfach.",
+            "confidenceLevel": 1.0,
+            "averageSentiment": 0,
+            "endPosition": "(19.6, 1.4, -100.7)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "Das war einfach.",
+                    "sentiment": 2
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "Das",
+                    "occurrence": 1
+                },
+                {
+                    "word": "war",
+                    "occurrence": 1
+                },
+                {
+                    "word": "einfach",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "2",
+            "participantId": "1",
+            "sessionId": "1",
+            "position": "(25.3, 1.7, -50.0)",
+            "spokenText": "Die sehen zwar simpel aus aber sehr sch�n eigentlich.",
+            "confidenceLevel": 1.0,
+            "averageSentiment": 0,
+            "endPosition": "(32.8, 1.7, -54.7)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "Die sehen zwar simpel aus aber sehr sch�n eigentlich.",
+                    "sentiment": 2
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "Die",
+                    "occurrence": 1
+                },
+                {
+                    "word": "sehen",
+                    "occurrence": 1
+                },
+                {
+                    "word": "zwar",
+                    "occurrence": 1
+                },
+                {
+                    "word": "simpel",
+                    "occurrence": 1
+                },
+                {
+                    "word": "aus",
+                    "occurrence": 1
+                },
+                {
+                    "word": "aber",
+                    "occurrence": 1
+                },
+                {
+                    "word": "sehr",
+                    "occurrence": 1
+                },
+                {
+                    "word": "sch",
+                    "occurrence": 1
+                },
+                {
+                    "word": "�",
+                    "occurrence": 1
+                },
+                {
+                    "word": "n",
+                    "occurrence": 1
+                },
+                {
+                    "word": "eigentlich",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "2",
+            "participantId": "1",
+            "sessionId": "1",
+            "position": "(-7.2, 1.7, -97.4)",
+            "spokenText": "Das war ja einfach.",
+            "confidenceLevel": 1.0,
+            "averageSentiment": 0,
+            "endPosition": "(-7.1, 1.5, -97.4)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "Das war ja einfach.",
+                    "sentiment": 2
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "Das",
+                    "occurrence": 1
+                },
+                {
+                    "word": "war",
+                    "occurrence": 1
+                },
+                {
+                    "word": "ja",
+                    "occurrence": 1
+                },
+                {
+                    "word": "einfach",
+                    "occurrence": 1
+                }
+            ]
+        }
+    ]
+}

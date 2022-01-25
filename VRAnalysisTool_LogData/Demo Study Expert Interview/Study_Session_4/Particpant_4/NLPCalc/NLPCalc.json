@@ -1,0 +1,512 @@
+{
+    "items": [
+        {
+            "taskId": "1",
+            "participantId": "4",
+            "sessionId": "4",
+            "position": "(27.1, 1.7, -48.0)",
+            "spokenText": "Müller",
+            "confidenceLevel": 0.2542586028575897,
+            "averageSentiment": 0,
+            "endPosition": "(27.2, 1.7, -48.1)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "Müller",
+                    "sentiment": 2
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "Müller",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "4",
+            "sessionId": "4",
+            "position": "(35.1, 1.6, -56.7)",
+            "spokenText": "interessanter",
+            "confidenceLevel": 0.04594095051288605,
+            "averageSentiment": 0,
+            "endPosition": "(35.1, 1.6, -56.9)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "interessanter",
+                    "sentiment": 1
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "interessanter",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "4",
+            "sessionId": "4",
+            "position": "(34.9, 1.7, -56.5)",
+            "spokenText": "U",
+            "confidenceLevel": 0.21425199508666993,
+            "averageSentiment": 0,
+            "endPosition": "(34.9, 1.7, -56.6)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "U",
+                    "sentiment": 1
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "U",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "4",
+            "sessionId": "4",
+            "position": "(17.2, 1.7, -72.3)",
+            "spokenText": "unter seinem schroff",
+            "confidenceLevel": 0.07435653358697891,
+            "averageSentiment": 0,
+            "endPosition": "(10.1, 1.6, -70.0)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "unter seinem schroff",
+                    "sentiment": 2
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "unter",
+                    "occurrence": 1
+                },
+                {
+                    "word": "seinem",
+                    "occurrence": 1
+                },
+                {
+                    "word": "schroff",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "4",
+            "sessionId": "4",
+            "position": "(7.3, 1.6, -68.8)",
+            "spokenText": "Zirkel zur",
+            "confidenceLevel": 0.1429148018360138,
+            "averageSentiment": 0,
+            "endPosition": "(2.3, 1.7, -68.9)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "Zirkel zur",
+                    "sentiment": 3
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "Zirkel",
+                    "occurrence": 1
+                },
+                {
+                    "word": "zur",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "4",
+            "sessionId": "4",
+            "position": "(-1.6, 1.7, -73.5)",
+            "spokenText": "rundum Instanz",
+            "confidenceLevel": 0.07903625816106796,
+            "averageSentiment": 0,
+            "endPosition": "(-4.0, 1.7, -86.8)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "rundum Instanz",
+                    "sentiment": 1
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "rundum",
+                    "occurrence": 1
+                },
+                {
+                    "word": "Instanz",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "4",
+            "sessionId": "4",
+            "position": "(-7.4, 1.7, -95.6)",
+            "spokenText": "beschoss die blockt",
+            "confidenceLevel": 0.02565459907054901,
+            "averageSentiment": 0,
+            "endPosition": "(-11.6, 1.7, -94.1)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "beschoss die blockt",
+                    "sentiment": 2
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "beschoss",
+                    "occurrence": 1
+                },
+                {
+                    "word": "die",
+                    "occurrence": 1
+                },
+                {
+                    "word": "blockt",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "4",
+            "sessionId": "4",
+            "position": "(-21.3, 1.6, -85.3)",
+            "spokenText": "fertig",
+            "confidenceLevel": 0.11996050179004669,
+            "averageSentiment": 0,
+            "endPosition": "(-21.3, 1.5, -85.3)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "fertig",
+                    "sentiment": 1
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "fertig",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "4",
+            "sessionId": "4",
+            "position": "(-21.1, 1.2, -85.3)",
+            "spokenText": "wird",
+            "confidenceLevel": 0.39160430431365969,
+            "averageSentiment": 0,
+            "endPosition": "(-21.0, 1.2, -85.3)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "wird",
+                    "sentiment": 2
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "wird",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "2",
+            "participantId": "4",
+            "sessionId": "4",
+            "position": "(0.1, 1.7, -61.7)",
+            "spokenText": "Wenn",
+            "confidenceLevel": 0.14365510642528535,
+            "averageSentiment": 0,
+            "endPosition": "(-5.3, 1.7, -65.1)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "Wenn",
+                    "sentiment": 2
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "Wenn",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "2",
+            "participantId": "4",
+            "sessionId": "4",
+            "position": "(-22.1, 1.7, -47.9)",
+            "spokenText": "im Stande sind auch unsere Gruppe Oster",
+            "confidenceLevel": 0.2039317935705185,
+            "averageSentiment": 0,
+            "endPosition": "(-21.4, 1.7, -41.0)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "im Stande sind auch unsere Gruppe Oster",
+                    "sentiment": 3
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "im",
+                    "occurrence": 1
+                },
+                {
+                    "word": "Stande",
+                    "occurrence": 1
+                },
+                {
+                    "word": "sind",
+                    "occurrence": 1
+                },
+                {
+                    "word": "auch",
+                    "occurrence": 1
+                },
+                {
+                    "word": "unsere",
+                    "occurrence": 1
+                },
+                {
+                    "word": "Gruppe",
+                    "occurrence": 1
+                },
+                {
+                    "word": "Oster",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "2",
+            "participantId": "4",
+            "sessionId": "4",
+            "position": "(-31.7, 1.7, -41.9)",
+            "spokenText": "suggestiver würden Schüler Scherz ganz ruhig im",
+            "confidenceLevel": 0.0916413962841034,
+            "averageSentiment": 0,
+            "endPosition": "(-29.7, 1.7, -50.4)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "suggestiver würden Schüler Scherz ganz ruhig im",
+                    "sentiment": 3
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "suggestiver",
+                    "occurrence": 1
+                },
+                {
+                    "word": "würden",
+                    "occurrence": 1
+                },
+                {
+                    "word": "Schüler",
+                    "occurrence": 1
+                },
+                {
+                    "word": "Scherz",
+                    "occurrence": 1
+                },
+                {
+                    "word": "ganz",
+                    "occurrence": 1
+                },
+                {
+                    "word": "ruhig",
+                    "occurrence": 1
+                },
+                {
+                    "word": "im",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "2",
+            "participantId": "4",
+            "sessionId": "4",
+            "position": "(-31.8, 1.7, -62.6)",
+            "spokenText": "Walde getrost",
+            "confidenceLevel": 0.0322861485183239,
+            "averageSentiment": 0,
+            "endPosition": "(-14.9, 1.7, -66.2)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "Walde getrost",
+                    "sentiment": 2
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "Walde",
+                    "occurrence": 1
+                },
+                {
+                    "word": "getrost",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "2",
+            "participantId": "4",
+            "sessionId": "4",
+            "position": "(-12.3, 1.7, -79.7)",
+            "spokenText": "Adumim alles wieder",
+            "confidenceLevel": 0.17095999419689179,
+            "averageSentiment": 0,
+            "endPosition": "(-21.2, 1.6, -83.3)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "Adumim alles wieder",
+                    "sentiment": 1
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "Adumim",
+                    "occurrence": 1
+                },
+                {
+                    "word": "alles",
+                    "occurrence": 1
+                },
+                {
+                    "word": "wieder",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "2",
+            "participantId": "4",
+            "sessionId": "4",
+            "position": "(-32.2, 1.7, -100.3)",
+            "spokenText": "in",
+            "confidenceLevel": 0.28170979022979739,
+            "averageSentiment": 0,
+            "endPosition": "(-32.1, 1.7, -100.3)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "in",
+                    "sentiment": 1
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "in",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "2",
+            "participantId": "4",
+            "sessionId": "4",
+            "position": "(-28.1, 1.7, -103.8)",
+            "spokenText": "Zoos möglichen aus Pullach eingeengt",
+            "confidenceLevel": 0.05516703054308891,
+            "averageSentiment": 0,
+            "endPosition": "(-28.1, 1.7, -103.5)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "Zoos möglichen aus Pullach eingeengt",
+                    "sentiment": 2
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "Zoos",
+                    "occurrence": 1
+                },
+                {
+                    "word": "möglichen",
+                    "occurrence": 1
+                },
+                {
+                    "word": "aus",
+                    "occurrence": 1
+                },
+                {
+                    "word": "Pullach",
+                    "occurrence": 1
+                },
+                {
+                    "word": "eingeengt",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "2",
+            "participantId": "4",
+            "sessionId": "4",
+            "position": "(-22.0, 2.4, -100.2)",
+            "spokenText": "und einem neues",
+            "confidenceLevel": 0.142107293009758,
+            "averageSentiment": 0,
+            "endPosition": "(-22.1, 2.5, -100.2)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "und einem neues",
+                    "sentiment": 3
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "und",
+                    "occurrence": 1
+                },
+                {
+                    "word": "einem",
+                    "occurrence": 1
+                },
+                {
+                    "word": "neues",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "2",
+            "participantId": "4",
+            "sessionId": "4",
+            "position": "(20.8, 1.6, -100.0)",
+            "spokenText": "desto einfacher",
+            "confidenceLevel": 0.1522178053855896,
+            "averageSentiment": 0,
+            "endPosition": "(20.7, 1.5, -100.3)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "desto einfacher",
+                    "sentiment": 2
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "desto",
+                    "occurrence": 1
+                },
+                {
+                    "word": "einfacher",
+                    "occurrence": 1
+                }
+            ]
+        }
+    ]
+}

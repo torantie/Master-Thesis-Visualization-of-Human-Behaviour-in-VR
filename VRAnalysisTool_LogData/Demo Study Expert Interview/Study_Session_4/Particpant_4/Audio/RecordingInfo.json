@@ -1,0 +1,27 @@
+{
+    "amountOfClips": 2,
+    "recordingSessions": [
+        {
+            "recordingStart": 637660334165005495,
+            "recordingStop": 637660334627357650,
+            "recordingFrequency": 48000,
+            "clipIds": [
+                0
+            ],
+            "taskId": "1",
+            "participantId": "4",
+            "sessionId": "4"
+        },
+        {
+            "recordingStart": 637660334862305535,
+            "recordingStop": 637660335593849597,
+            "recordingFrequency": 48000,
+            "clipIds": [
+                1
+            ],
+            "taskId": "2",
+            "participantId": "4",
+            "sessionId": "4"
+        }
+    ]
+}

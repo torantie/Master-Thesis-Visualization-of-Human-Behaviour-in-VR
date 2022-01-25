@@ -1,0 +1,19 @@
+sentence;sentiment;position;dataPointGuid;taskId;participantId;sessionId;pointInTimeUtc
+Müller;Negative;(27.1, 1.7, -48.0);9a220f95-7aac-4de7-8682-fc026d77643d;1;4;4;08.31.2021 19:46:51.889
+interessanter;Positive;(35.1, 1.6, -56.7);dcc9f2be-e8f1-4aed-a72f-2dfbf90862d5;1;4;4;08.31.2021 19:46:51.889
+U;Positive;(34.9, 1.7, -56.5);fc8617fe-1797-4cae-82fa-1017ccec858b;1;4;4;08.31.2021 19:46:51.889
+unter seinem schroff;Negative;(17.2, 1.7, -72.3);be01d3ef-65e5-4d86-ba0b-7b7c0374b811;1;4;4;08.31.2021 19:46:51.889
+Zirkel zur;Neutral;(7.3, 1.6, -68.8);71b1c1cb-248a-43ae-a2c4-ede8ac3e13a3;1;4;4;08.31.2021 19:46:51.889
+rundum Instanz;Positive;(-1.6, 1.7, -73.5);c5bf2a89-739a-45f7-b123-57e3fdcd93f1;1;4;4;08.31.2021 19:46:51.889
+beschoss die blockt;Negative;(-7.4, 1.7, -95.6);1acd645d-fe52-4e0b-99f8-6a9bf44c8a03;1;4;4;08.31.2021 19:46:51.889
+fertig;Positive;(-21.3, 1.6, -85.3);1c92775e-aeeb-47db-b2f5-c4f82ed27a9c;1;4;4;08.31.2021 19:46:51.889
+wird;Negative;(-21.1, 1.2, -85.3);7d3870ee-f7e4-46be-a8ea-e7aa72ce09b6;1;4;4;08.31.2021 19:46:51.889
+Wenn;Negative;(0.1, 1.7, -61.7);633d784a-68d1-4ee6-a2a7-5441262a2515;2;4;4;08.31.2021 19:46:51.889
+im Stande sind auch unsere Gruppe Oster;Neutral;(-22.1, 1.7, -47.9);53738e3b-2912-46b5-b198-d7a27e5d01dd;2;4;4;08.31.2021 19:46:51.889
+suggestiver würden Schüler Scherz ganz ruhig im;Neutral;(-31.7, 1.7, -41.9);49f1ab0e-e846-4259-87b6-ef4913ea9e7f;2;4;4;08.31.2021 19:46:51.889
+Walde getrost;Negative;(-31.8, 1.7, -62.6);20c7fd9f-d2bc-4fe3-abf4-865cdc5a8fb8;2;4;4;08.31.2021 19:46:51.889
+Adumim alles wieder;Positive;(-12.3, 1.7, -79.7);af5e8b46-1fa6-4deb-ad6a-5332bd361dbe;2;4;4;08.31.2021 19:46:51.889
+in;Positive;(-32.2, 1.7, -100.3);54db4af8-848d-40c7-b516-ca886a417e03;2;4;4;08.31.2021 19:46:51.889
+Zoos möglichen aus Pullach eingeengt;Negative;(-28.1, 1.7, -103.8);003a2e3c-e10f-4cb8-b2b1-0043045dbc8e;2;4;4;08.31.2021 19:46:51.889
+und einem neues;Neutral;(-22.0, 2.4, -100.2);1e9bf2f6-febc-4923-9dc4-baa922179916;2;4;4;08.31.2021 19:46:51.889
+desto einfacher;Negative;(20.8, 1.6, -100.0);6441ceb0-ff0e-4478-9c4b-a85b37c1fa1c;2;4;4;08.31.2021 19:46:51.889
