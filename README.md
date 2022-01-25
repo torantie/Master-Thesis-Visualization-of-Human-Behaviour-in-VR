@@ -1,4 +1,14 @@
 # Master-Thesis-Visualization-of-Human-Behaviour-in-VR
+This project contains the code and example data used in my master thesis "Visualization of Human Behaviour in VR".
+
+## Setup
+Needed Assets:
+- Csv Serialize: https://assetstore.unity.com/packages/tools/integration/csv-serialize-135763
+- Oculus Integration: https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022
+- Free Fantasy Medieval Houses and Props Pack: https://assetstore.unity.com/packages/3d/environments/fantasy/free-fantasy-medieval-houses-and-props-pack-167010
+
+Already Integrated Assets:
+- Heatmap edited implementation: https://unitycodemonkey.com/video.php?v=mZzZXfySeFQ
 
 ## Test_Masterthesis_Project
 
