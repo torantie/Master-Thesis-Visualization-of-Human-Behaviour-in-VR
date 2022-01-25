@@ -1,0 +1,6 @@
+ranking,driver,constructor,icon,score,podium,country,win
+1,Louis HAMILTON,Mercedes,Assets/CSVSerializer/demo/texture/mclaren.png,408,17,gb,"Azerbaijan,Spain,France,Germany,Hungary,Italy,Singapore,Russia,Japan,Brazil,Abu Dhabi"
+2,Sebastian VETTEL,Ferrari,Assets/CSVSerializer/demo/texture/ferrari.png,320,12,de,"Australia,Bahrain,Canada,Great Britain,Belgium"
+3,Kimi RAIKKONNEN,Farrari,Assets/CSVSerializer/demo/texture/ferrari.png,251,12,fi,United States
+4,Max VERSTAPPEN,Red Bull,Assets/CSVSerializer/demo/texture/redbull.png,249,11,be,"Austria,Mexico"
+5,Valtteru BOTTAS,Mercedes,Assets/CSVSerializer/demo/texture/mercedes.png,247,8,fi,

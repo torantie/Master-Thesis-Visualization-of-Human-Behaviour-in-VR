@@ -1,0 +1,6 @@
+id,value
+maxhp,200
+type,wolf
+intarray,"10,20,30"
+floatarray,"10,1"
+stringarray,"bigmac,inandout"

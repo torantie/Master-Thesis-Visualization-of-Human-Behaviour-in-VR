@@ -1,0 +1,7 @@
+id,en,jp,ru,ch,fr,ko
+mode.other,Game modes,ゲームモード,Режимы игры,游戏模式,Modes de jeu,게임 모드
+mode.choose,Choose a game mode,ゲームモードを選択します。,Выберите режим игры,选择游戏模式,Choisissez un mode de jeu,게임 모드를 선택합니다
+mode.single,Single player,シングルプレーヤー,Один игрок,单人玩家,Un joueur,싱글 플레이어
+mode.multi,Multiplayer,マルチプレイ,Мультиплеер,多人,multijoueur,멀티 플레이어
+mode.local,Local multiplayer,ローカルマルチプレイ,Локальный мультиплеер,本地多人,multijoueur local,로컬 멀티 플레이
+mode.online,Online multiplayer,オンラインマルチプレイヤー,многопользовательская онлайн,在线多人游戏,multijoueur en ligne,온라인 멀티
