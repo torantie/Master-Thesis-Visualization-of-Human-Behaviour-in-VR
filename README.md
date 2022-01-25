@@ -1,7 +1,7 @@
 # Master-Thesis-Visualization-of-Human-Behaviour-in-VR
 This project contains the code and example data used in my master thesis "Visualization of Human Behaviour in VR".
 
-## Setup
+## Setup & References
 Needed Assets:
 - Csv Serialize: https://assetstore.unity.com/packages/tools/integration/csv-serialize-135763
  - in the "CSVSerializer.cs" insert into the method "SetValue":
