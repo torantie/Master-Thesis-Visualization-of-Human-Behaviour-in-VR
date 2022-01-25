@@ -1,0 +1,7 @@
+{
+    "logPerSecond": 30,
+    "taskIds": [
+        "1",
+        "2"
+    ]
+}

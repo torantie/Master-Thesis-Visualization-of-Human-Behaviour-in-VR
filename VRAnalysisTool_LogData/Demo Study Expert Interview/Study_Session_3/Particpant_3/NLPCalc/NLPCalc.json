@@ -1,0 +1,374 @@
+{
+    "items": [
+        {
+            "taskId": "1",
+            "participantId": "3",
+            "sessionId": "3",
+            "position": "(5.1, 1.7, -65.9)",
+            "spokenText": "Anschaffen U",
+            "confidenceLevel": 0.14972969889640809,
+            "averageSentiment": 0,
+            "endPosition": "(5.2, 1.7, -65.8)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "Anschaffen U",
+                    "sentiment": 2
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "Anschaffen",
+                    "occurrence": 1
+                },
+                {
+                    "word": "U",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "3",
+            "sessionId": "3",
+            "position": "(-22.2, 1.7, -48.3)",
+            "spokenText": "stammende soll mich so detaillierter",
+            "confidenceLevel": 0.11079280078411102,
+            "averageSentiment": 0,
+            "endPosition": "(-24.7, 1.7, -40.2)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "stammende soll mich so detaillierter",
+                    "sentiment": 2
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "stammende",
+                    "occurrence": 1
+                },
+                {
+                    "word": "soll",
+                    "occurrence": 1
+                },
+                {
+                    "word": "mich",
+                    "occurrence": 1
+                },
+                {
+                    "word": "so",
+                    "occurrence": 1
+                },
+                {
+                    "word": "detaillierter",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "3",
+            "sessionId": "3",
+            "position": "(-24.6, 1.7, -40.3)",
+            "spokenText": "wird mittels einiger und",
+            "confidenceLevel": 0.14435230195522309,
+            "averageSentiment": 0,
+            "endPosition": "(-31.5, 1.7, -42.2)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "wird mittels einiger und",
+                    "sentiment": 3
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "wird",
+                    "occurrence": 1
+                },
+                {
+                    "word": "mittels",
+                    "occurrence": 1
+                },
+                {
+                    "word": "einiger",
+                    "occurrence": 1
+                },
+                {
+                    "word": "und",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "3",
+            "sessionId": "3",
+            "position": "(-34.0, 1.7, -61.1)",
+            "spokenText": "M",
+            "confidenceLevel": 0.30283060669898989,
+            "averageSentiment": 0,
+            "endPosition": "(-27.0, 1.6, -63.6)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "M",
+                    "sentiment": 1
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "M",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "3",
+            "sessionId": "3",
+            "position": "(-31.8, 1.7, -92.2)",
+            "spokenText": "V zu schön",
+            "confidenceLevel": 0.1516495943069458,
+            "averageSentiment": 0,
+            "endPosition": "(-33.4, 1.7, -96.5)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "V zu schön",
+                    "sentiment": 1
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "V",
+                    "occurrence": 1
+                },
+                {
+                    "word": "zu",
+                    "occurrence": 1
+                },
+                {
+                    "word": "schön",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "3",
+            "sessionId": "3",
+            "position": "(-28.4, 1.7, -103.1)",
+            "spokenText": "Kunden in",
+            "confidenceLevel": 0.07672342658042908,
+            "averageSentiment": 0,
+            "endPosition": "(-21.8, 2.5, -101.5)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "Kunden in",
+                    "sentiment": 2
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "Kunden",
+                    "occurrence": 1
+                },
+                {
+                    "word": "in",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "3",
+            "sessionId": "3",
+            "position": "(-17.6, 2.5, -104.0)",
+            "spokenText": "Kohle",
+            "confidenceLevel": 0.35141730308532717,
+            "averageSentiment": 0,
+            "endPosition": "(-24.2, 2.4, -101.1)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "Kohle",
+                    "sentiment": 2
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "Kohle",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "3",
+            "sessionId": "3",
+            "position": "(20.0, 1.6, -99.8)",
+            "spokenText": "Fertigkeiten",
+            "confidenceLevel": 0.17521299421787263,
+            "averageSentiment": 0,
+            "endPosition": "(20.0, 1.4, -99.8)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "Fertigkeiten",
+                    "sentiment": 2
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "Fertigkeiten",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "2",
+            "participantId": "3",
+            "sessionId": "3",
+            "position": "(2.4, 1.3, -41.7)",
+            "spokenText": "Das",
+            "confidenceLevel": 0.5680819749832153,
+            "averageSentiment": 0,
+            "endPosition": "(2.4, 1.5, -41.7)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "Das",
+                    "sentiment": 1
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "Das",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "2",
+            "participantId": "3",
+            "sessionId": "3",
+            "position": "(8.4, 1.7, -53.4)",
+            "spokenText": "sind immerhin war",
+            "confidenceLevel": 0.07654512673616409,
+            "averageSentiment": 0,
+            "endPosition": "(19.2, 1.7, -48.6)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "sind immerhin war",
+                    "sentiment": 2
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "sind",
+                    "occurrence": 1
+                },
+                {
+                    "word": "immerhin",
+                    "occurrence": 1
+                },
+                {
+                    "word": "war",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "2",
+            "participantId": "3",
+            "sessionId": "3",
+            "position": "(28.5, 1.7, -50.0)",
+            "spokenText": "auch ganz schön die tönte",
+            "confidenceLevel": 0.2186616063117981,
+            "averageSentiment": 0,
+            "endPosition": "(35.3, 1.6, -56.7)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "auch ganz schön die tönte",
+                    "sentiment": 1
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "auch",
+                    "occurrence": 1
+                },
+                {
+                    "word": "ganz",
+                    "occurrence": 1
+                },
+                {
+                    "word": "schön",
+                    "occurrence": 1
+                },
+                {
+                    "word": "die",
+                    "occurrence": 1
+                },
+                {
+                    "word": "tönte",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "2",
+            "participantId": "3",
+            "sessionId": "3",
+            "position": "(35.1, 1.7, -56.5)",
+            "spokenText": "zuzusehen Bürger trotz stünden",
+            "confidenceLevel": 0.07444509118795395,
+            "averageSentiment": 0,
+            "endPosition": "(30.3, 1.7, -60.3)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "zuzusehen Bürger trotz stünden",
+                    "sentiment": 3
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "zuzusehen",
+                    "occurrence": 1
+                },
+                {
+                    "word": "Bürger",
+                    "occurrence": 1
+                },
+                {
+                    "word": "trotz",
+                    "occurrence": 1
+                },
+                {
+                    "word": "stünden",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "2",
+            "participantId": "3",
+            "sessionId": "3",
+            "position": "(-21.5, 1.6, -84.8)",
+            "spokenText": "desto einfacher",
+            "confidenceLevel": 0.1862293928861618,
+            "averageSentiment": 0,
+            "endPosition": "(-21.4, 1.5, -84.9)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "desto einfacher",
+                    "sentiment": 2
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "desto",
+                    "occurrence": 1
+                },
+                {
+                    "word": "einfacher",
+                    "occurrence": 1
+                }
+            ]
+        }
+    ]
+}

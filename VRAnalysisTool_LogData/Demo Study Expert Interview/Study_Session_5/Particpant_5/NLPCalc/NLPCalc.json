@@ -1,0 +1,340 @@
+{
+    "items": [
+        {
+            "taskId": "1",
+            "participantId": "5",
+            "sessionId": "5",
+            "position": "(4.2, 1.6, -68.4)",
+            "spokenText": "Überichtigt Dorf sie schon gesehen Millionen",
+            "confidenceLevel": 0.12276740372180939,
+            "averageSentiment": 0,
+            "endPosition": "(4.3, 1.6, -68.3)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "Überichtigt Dorf sie schon gesehen Millionen",
+                    "sentiment": 3
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "Überichtigt",
+                    "occurrence": 1
+                },
+                {
+                    "word": "Dorf",
+                    "occurrence": 1
+                },
+                {
+                    "word": "sie",
+                    "occurrence": 1
+                },
+                {
+                    "word": "schon",
+                    "occurrence": 1
+                },
+                {
+                    "word": "gesehen",
+                    "occurrence": 1
+                },
+                {
+                    "word": "Millionen",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "5",
+            "sessionId": "5",
+            "position": "(-28.4, 1.7, -41.7)",
+            "spokenText": "my",
+            "confidenceLevel": 0.11688269674777985,
+            "averageSentiment": 0,
+            "endPosition": "(-33.6, 1.7, -42.6)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "my",
+                    "sentiment": 1
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "my",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "5",
+            "sessionId": "5",
+            "position": "(-27.0, 1.7, -53.3)",
+            "spokenText": "etwas schon Jürgen Scharf Stollesinn des Wortes Utl außen",
+            "confidenceLevel": 0.03399096056818962,
+            "averageSentiment": 0,
+            "endPosition": "(-26.6, 1.7, -59.4)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "etwas schon Jürgen Scharf Stollesinn des Wortes Utl außen",
+                    "sentiment": 3
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "etwas",
+                    "occurrence": 1
+                },
+                {
+                    "word": "schon",
+                    "occurrence": 1
+                },
+                {
+                    "word": "Jürgen",
+                    "occurrence": 1
+                },
+                {
+                    "word": "Scharf",
+                    "occurrence": 1
+                },
+                {
+                    "word": "Stollesinn",
+                    "occurrence": 1
+                },
+                {
+                    "word": "des",
+                    "occurrence": 1
+                },
+                {
+                    "word": "Wortes",
+                    "occurrence": 1
+                },
+                {
+                    "word": "Utl",
+                    "occurrence": 1
+                },
+                {
+                    "word": "außen",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "5",
+            "sessionId": "5",
+            "position": "(-28.8, 1.7, -83.5)",
+            "spokenText": "Stoffe dafür sei schon los",
+            "confidenceLevel": 0.03872906044125557,
+            "averageSentiment": 0,
+            "endPosition": "(-34.3, 1.7, -94.5)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "Stoffe dafür sei schon los",
+                    "sentiment": 3
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "Stoffe",
+                    "occurrence": 1
+                },
+                {
+                    "word": "dafür",
+                    "occurrence": 1
+                },
+                {
+                    "word": "sei",
+                    "occurrence": 1
+                },
+                {
+                    "word": "schon",
+                    "occurrence": 1
+                },
+                {
+                    "word": "los",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "5",
+            "sessionId": "5",
+            "position": "(14.3, 1.7, -102.9)",
+            "spokenText": "gewesen, die ziemlich Glocke",
+            "confidenceLevel": 0.05102704092860222,
+            "averageSentiment": 0,
+            "endPosition": "(17.9, 1.6, -102.7)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "gewesen, die ziemlich Glocke",
+                    "sentiment": 2
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "gewesen",
+                    "occurrence": 1
+                },
+                {
+                    "word": "die",
+                    "occurrence": 1
+                },
+                {
+                    "word": "ziemlich",
+                    "occurrence": 1
+                },
+                {
+                    "word": "Glocke",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "5",
+            "sessionId": "5",
+            "position": "(19.5, 1.6, -100.0)",
+            "spokenText": "fertig ist",
+            "confidenceLevel": 0.2729629874229431,
+            "averageSentiment": 0,
+            "endPosition": "(19.4, 1.3, -99.9)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "fertig ist",
+                    "sentiment": 3
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "fertig",
+                    "occurrence": 1
+                },
+                {
+                    "word": "ist",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "2",
+            "participantId": "5",
+            "sessionId": "5",
+            "position": "(20.0, 1.7, -48.3)",
+            "spokenText": "Ob diese Orte Symbol gestolpert AO",
+            "confidenceLevel": 0.14502090215682984,
+            "averageSentiment": 0,
+            "endPosition": "(23.9, 1.7, -47.5)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "Ob diese Orte Symbol gestolpert AO",
+                    "sentiment": 3
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "Ob",
+                    "occurrence": 1
+                },
+                {
+                    "word": "diese",
+                    "occurrence": 1
+                },
+                {
+                    "word": "Orte",
+                    "occurrence": 1
+                },
+                {
+                    "word": "Symbol",
+                    "occurrence": 1
+                },
+                {
+                    "word": "gestolpert",
+                    "occurrence": 1
+                },
+                {
+                    "word": "AO",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "2",
+            "participantId": "5",
+            "sessionId": "5",
+            "position": "(28.1, 1.7, -50.4)",
+            "spokenText": "Glück ins weniger",
+            "confidenceLevel": 0.07151435315608978,
+            "averageSentiment": 0,
+            "endPosition": "(35.1, 1.6, -56.8)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "Glück ins weniger",
+                    "sentiment": 2
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "Glück",
+                    "occurrence": 1
+                },
+                {
+                    "word": "ins",
+                    "occurrence": 1
+                },
+                {
+                    "word": "weniger",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "2",
+            "participantId": "5",
+            "sessionId": "5",
+            "position": "(23.9, 1.6, -96.9)",
+            "spokenText": "O ja",
+            "confidenceLevel": 0.01311890035867691,
+            "averageSentiment": 0,
+            "endPosition": "(21.3, 1.6, -98.6)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "O ja",
+                    "sentiment": 1
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "O",
+                    "occurrence": 1
+                },
+                {
+                    "word": "ja",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "2",
+            "participantId": "5",
+            "sessionId": "5",
+            "position": "(-7.3, 1.6, -97.3)",
+            "spokenText": "Lattek",
+            "confidenceLevel": 0.013565990142524243,
+            "averageSentiment": 0,
+            "endPosition": "(-7.3, 1.5, -97.4)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "Lattek",
+                    "sentiment": 2
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "Lattek",
+                    "occurrence": 1
+                }
+            ]
+        }
+    ]
+}

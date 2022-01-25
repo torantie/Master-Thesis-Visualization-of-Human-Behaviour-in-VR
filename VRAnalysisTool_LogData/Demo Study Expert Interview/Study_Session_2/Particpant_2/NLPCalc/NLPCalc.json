@@ -1,0 +1,320 @@
+{
+    "items": [
+        {
+            "taskId": "1",
+            "participantId": "2",
+            "sessionId": "2",
+            "position": "(6.6, 1.6, -68.1)",
+            "spokenText": "Angeschaffte Uluru",
+            "confidenceLevel": 0.0788273736834526,
+            "averageSentiment": 0,
+            "endPosition": "(6.6, 1.6, -68.1)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "Angeschaffte Uluru",
+                    "sentiment": 2
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "Angeschaffte",
+                    "occurrence": 1
+                },
+                {
+                    "word": "Uluru",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "2",
+            "sessionId": "2",
+            "position": "(-14.8, 1.7, -51.8)",
+            "spokenText": "M",
+            "confidenceLevel": 0.4356527030467987,
+            "averageSentiment": 0,
+            "endPosition": "(-21.2, 1.7, -48.4)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "M",
+                    "sentiment": 1
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "M",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "2",
+            "sessionId": "2",
+            "position": "(-21.1, 1.7, -41.2)",
+            "spokenText": "etwas Firmen Schüler und",
+            "confidenceLevel": 0.15911290049552918,
+            "averageSentiment": 0,
+            "endPosition": "(-32.3, 1.7, -42.5)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "etwas Firmen Schüler und",
+                    "sentiment": 3
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "etwas",
+                    "occurrence": 1
+                },
+                {
+                    "word": "Firmen",
+                    "occurrence": 1
+                },
+                {
+                    "word": "Schüler",
+                    "occurrence": 1
+                },
+                {
+                    "word": "und",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "2",
+            "sessionId": "2",
+            "position": "(-31.2, 1.7, -51.8)",
+            "spokenText": "logische und School of",
+            "confidenceLevel": 0.16931410133838654,
+            "averageSentiment": 0,
+            "endPosition": "(-31.1, 1.7, -51.8)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "logische und School of",
+                    "sentiment": 1
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "logische",
+                    "occurrence": 1
+                },
+                {
+                    "word": "und",
+                    "occurrence": 1
+                },
+                {
+                    "word": "School",
+                    "occurrence": 1
+                },
+                {
+                    "word": "of",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "2",
+            "sessionId": "2",
+            "position": "(-15.0, 1.7, -65.5)",
+            "spokenText": "a u. a. mit rund",
+            "confidenceLevel": 0.2972502112388611,
+            "averageSentiment": 0,
+            "endPosition": "(-7.7, 1.7, -67.5)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "a u. a. mit rund",
+                    "sentiment": 1
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "a",
+                    "occurrence": 1
+                },
+                {
+                    "word": "u.",
+                    "occurrence": 1
+                },
+                {
+                    "word": "a.",
+                    "occurrence": 1
+                },
+                {
+                    "word": "mit",
+                    "occurrence": 1
+                },
+                {
+                    "word": "rund",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "2",
+            "sessionId": "2",
+            "position": "(12.4, 1.7, -103.3)",
+            "spokenText": "sehr blutiger Lusser",
+            "confidenceLevel": 0.06428647041320801,
+            "averageSentiment": 0,
+            "endPosition": "(16.9, 1.7, -102.9)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "sehr blutiger Lusser",
+                    "sentiment": 2
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "sehr",
+                    "occurrence": 1
+                },
+                {
+                    "word": "blutiger",
+                    "occurrence": 1
+                },
+                {
+                    "word": "Lusser",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "1",
+            "participantId": "2",
+            "sessionId": "2",
+            "position": "(18.7, 1.7, -100.0)",
+            "spokenText": "tt f. ergibt",
+            "confidenceLevel": 0.297466903924942,
+            "averageSentiment": 0,
+            "endPosition": "(18.7, 1.5, -100.0)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "tt f. ergibt",
+                    "sentiment": 2
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "tt",
+                    "occurrence": 1
+                },
+                {
+                    "word": "f.",
+                    "occurrence": 1
+                },
+                {
+                    "word": "ergibt",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "2",
+            "participantId": "2",
+            "sessionId": "2",
+            "position": "(30.4, 1.7, -54.8)",
+            "spokenText": "Rühe",
+            "confidenceLevel": 0.02852603979408741,
+            "averageSentiment": 0,
+            "endPosition": "(30.4, 1.7, -54.8)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "Rühe",
+                    "sentiment": 2
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "Rühe",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "2",
+            "participantId": "2",
+            "sessionId": "2",
+            "position": "(30.4, 1.7, -54.8)",
+            "spokenText": "habe so Sinne Uhr MEU Lust zu Schorsch",
+            "confidenceLevel": 0.011648599989712239,
+            "averageSentiment": 0,
+            "endPosition": "(35.6, 1.6, -57.8)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "habe so Sinne Uhr MEU Lust zu Schorsch",
+                    "sentiment": 3
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "habe",
+                    "occurrence": 1
+                },
+                {
+                    "word": "so",
+                    "occurrence": 1
+                },
+                {
+                    "word": "Sinne",
+                    "occurrence": 1
+                },
+                {
+                    "word": "Uhr",
+                    "occurrence": 1
+                },
+                {
+                    "word": "MEU",
+                    "occurrence": 1
+                },
+                {
+                    "word": "Lust",
+                    "occurrence": 1
+                },
+                {
+                    "word": "zu",
+                    "occurrence": 1
+                },
+                {
+                    "word": "Schorsch",
+                    "occurrence": 1
+                }
+            ]
+        },
+        {
+            "taskId": "2",
+            "participantId": "2",
+            "sessionId": "2",
+            "position": "(-7.2, 1.6, -97.6)",
+            "spokenText": "dass solche Einrichtungen",
+            "confidenceLevel": 0.10977199673652649,
+            "averageSentiment": 0,
+            "endPosition": "(-7.1, 1.5, -97.5)",
+            "sentenceSentiments": [
+                {
+                    "sentence": "dass solche Einrichtungen",
+                    "sentiment": 3
+                }
+            ],
+            "wordOccurrences": [
+                {
+                    "word": "dass",
+                    "occurrence": 1
+                },
+                {
+                    "word": "solche",
+                    "occurrence": 1
+                },
+                {
+                    "word": "Einrichtungen",
+                    "occurrence": 1
+                }
+            ]
+        }
+    ]
+}
