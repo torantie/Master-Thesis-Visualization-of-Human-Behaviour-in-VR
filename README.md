@@ -2,6 +2,8 @@
 This project contains the code and example data used in my master thesis "Visualization of Human Behaviour in VR".
 
 ## Setup & References
+Since the repository contains example logging data with .wav files you should install **git large file storage** (https://git-lfs.github.com/) and use git lfs clone if you do not want to authenticate for each large file (see https://stackoverflow.com/questions/42429028/git-lfs-asking-for-passphrase-for-every-tracked-file).
+
 Needed Assets:
 - Csv Serialize: https://assetstore.unity.com/packages/tools/integration/csv-serialize-135763
  - in the "CSVSerializer.cs" insert into the method "SetValue":
