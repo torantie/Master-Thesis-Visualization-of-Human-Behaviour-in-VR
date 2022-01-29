@@ -4,8 +4,8 @@ This project contains the code and example data used in my master thesis "Visual
 ## Setup & References
 Since the repository contains example logging data with .wav files you should install **git large file storage** (https://git-lfs.github.com/) and use git lfs clone if you do not want to authenticate for each large file (see https://stackoverflow.com/questions/42429028/git-lfs-asking-for-passphrase-for-every-tracked-file).
 
-Needed Assets:
-- Csv Serialize: https://assetstore.unity.com/packages/tools/integration/csv-serialize-135763
+### Assets that need to be added:
+- **Csv Serialize v1.0:** https://assetstore.unity.com/packages/tools/integration/csv-serialize-135763
  - in the "CSVSerializer.cs" insert into the method "SetValue":
 ```
 else if (fieldinfo.FieldType == typeof(Guid))
@@ -21,13 +21,22 @@ else if (fieldinfo.FieldType == typeof(DateTime))
 	fieldinfo.SetValue(v, result);
 }
 ```
-- Oculus Integration: https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022
-- Free Fantasy Medieval Houses and Props Pack: https://assetstore.unity.com/packages/3d/environments/fantasy/free-fantasy-medieval-houses-and-props-pack-167010
-- Polygonal Foliage Asset Package: https://assetstore.unity.com/packages/3d/environments/polygonal-foliage-asset-package-133037
-- If you have problems with the Python for Unity asset (https://docs.unity3d.com/Packages/com.unity.scripting.python@4.0/manual/installation.html), e.g. python installation exception, it can be removed
+- **Oculus Integration v31.0:** https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022
 
-Already Integrated Assets:
-- Heatmap edited implementation: https://unitycodemonkey.com/video.php?v=mZzZXfySeFQ
+### Assets that need to be added for the example scene used for the expert interview:
+- **Free Fantasy Medieval Houses and Props Pack v1.3:** https://assetstore.unity.com/packages/3d/environments/fantasy/free-fantasy-medieval-houses-and-props-pack-167010
+- **Polygonal Foliage Asset Package v1.1:** https://assetstore.unity.com/packages/3d/environments/polygonal-foliage-asset-package-133037
+
+### Already integrated assets:
+- **Heatmap edited implementation from:** https://unitycodemonkey.com/video.php?v=mZzZXfySeFQ
+
+### Loaded when project is opened:
+- **OpenXR Plugin v1.2.3** https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.3/license/Third%20Party%20Notices.html
+- **XR Interaction Toolkit v1.0.0-pre.5** https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@1.0/license/Third%20Party%20Notices.html
+- **XR Plugin Management v4.1.0** https://docs.unity3d.com/Packages/com.unity.xr.management@4.1/license/LICENSE.html
+- **TextMeshPro v3.0.6** https://docs.unity3d.com/Packages/com.unity.textmeshpro@3.0/license/LICENSE.html
+- **Python for Unity v4.0.0-exp.5** https://docs.unity3d.com/Packages/com.unity.scripting.python@4.0/license/Third%20Party%20Notices.html
+- If you have problems with the **Python for Unity** asset (https://docs.unity3d.com/Packages/com.unity.scripting.python@4.0/manual/installation.html), e.g. python installation exception, it **can be removed**
 
 ## Test_Masterthesis_Project
 
