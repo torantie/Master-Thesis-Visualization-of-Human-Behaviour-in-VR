@@ -29,6 +29,7 @@ else if (fieldinfo.FieldType == typeof(DateTime))
 
 ### Already integrated assets:
 - **Heatmap edited implementation from:** https://unitycodemonkey.com/video.php?v=mZzZXfySeFQ
+- **OpenXR Plugin v1.2.3** https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.3/license/Third%20Party%20Notices.html
 
 ### Loaded when project is opened:
 - **OpenXR Plugin v1.2.3** https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.3/license/Third%20Party%20Notices.html
