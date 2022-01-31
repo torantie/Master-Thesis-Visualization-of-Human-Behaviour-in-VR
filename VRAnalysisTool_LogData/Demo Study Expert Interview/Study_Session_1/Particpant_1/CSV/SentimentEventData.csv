@@ -1,0 +1,11 @@
+sentence;sentiment;position;dataPointGuid;taskId;participantId;sessionId;pointInTimeUtc
+Was tut den ein schaaf hier, dass ist ja komisch.;Negative;(5.1, 1.6, -66.0);5dc5b894-bed4-4081-b5e7-3cec0d0a3f15;1;1;1;08.31.2021 19:43:17.914
+hm verwirrend.;Negative;(-27.6, 1.7, -42.8);91a9210f-38de-4f62-ab41-4a3243a11205;1;1;1;08.31.2021 19:43:17.914
+Die Steine sehen jetzt noicht so realistisch aus.;Negative;(-23.2, 1.7, -63.9);c59ef7a7-0465-488e-9c0c-d327826abc30;1;1;1;08.31.2021 19:43:17.914
+Ah cool.;Positive;(-21.7, 1.6, -83.0);98dffca2-17ac-4022-9460-ff148efa859a;1;1;1;08.31.2021 19:43:17.914
+Oh das Haus ist sch�n.;Negative;(-30.8, 1.7, -87.3);52a4e9e8-2e0b-4a45-b65c-eb8be9a4e411;1;1;1;08.31.2021 19:43:17.915
+Kann man da reingehen.;Positive;(-28.1, 1.7, -103.3);7440aa1f-4cea-43a4-85de-4a62624d7ff1;1;1;1;08.31.2021 19:43:17.915
+Oh cool nice.;Positive;(-21.7, 2.5, -100.6);4cac11b3-b96f-4489-9579-c4d838c48685;1;1;1;08.31.2021 19:43:17.915
+Das war einfach.;Negative;(19.6, 1.6, -100.7);0660939a-1c98-42ca-86a4-78d7d55ca32b;1;1;1;08.31.2021 19:43:17.915
+Die sehen zwar simpel aus aber sehr sch�n eigentlich.;Negative;(25.3, 1.7, -50.0);b0911790-0b93-4ee9-8bcc-e2e5d4700060;2;1;1;08.31.2021 19:43:17.915
+Das war ja einfach.;Negative;(-7.2, 1.7, -97.4);f1c67a93-91ad-43ea-b3f5-46e9bb89b96d;2;1;1;08.31.2021 19:43:17.915

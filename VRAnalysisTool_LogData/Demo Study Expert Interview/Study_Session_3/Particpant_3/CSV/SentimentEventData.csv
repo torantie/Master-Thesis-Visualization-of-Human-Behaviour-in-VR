@@ -1,0 +1,14 @@
+sentence;sentiment;position;dataPointGuid;taskId;participantId;sessionId;pointInTimeUtc
+Anschaffen U;Negative;(5.1, 1.7, -65.9);07598933-e027-45f2-8e64-77d4ae0341b7;1;3;3;08.31.2021 19:45:19.318
+stammende soll mich so detaillierter;Negative;(-22.2, 1.7, -48.3);1b1fd0c2-529e-4f06-944b-cb1f236b349a;1;3;3;08.31.2021 19:45:19.318
+wird mittels einiger und;Neutral;(-24.6, 1.7, -40.3);2aa957ef-63e9-4688-9a76-6801ab9fbfb6;1;3;3;08.31.2021 19:45:19.318
+M;Positive;(-34.0, 1.7, -61.1);96ed4380-f02c-4383-982f-fe16dd42c380;1;3;3;08.31.2021 19:45:19.318
+V zu schön;Positive;(-31.8, 1.7, -92.2);3466bdcb-01b7-4220-9fa9-518c579329bd;1;3;3;08.31.2021 19:45:19.318
+Kunden in;Negative;(-28.4, 1.7, -103.1);ba3dda34-f569-4585-b644-2d855145296c;1;3;3;08.31.2021 19:45:19.318
+Kohle;Negative;(-17.6, 2.5, -104.0);660c7793-f554-4c2b-980b-847646d5872b;1;3;3;08.31.2021 19:45:19.318
+Fertigkeiten;Negative;(20.0, 1.6, -99.8);f928c89a-02b4-42ca-aea3-2f33eb529726;1;3;3;08.31.2021 19:45:19.318
+Das;Positive;(2.4, 1.3, -41.7);6260db7f-9590-486d-ad0d-10ea24bc3c42;2;3;3;08.31.2021 19:45:19.318
+sind immerhin war;Negative;(8.4, 1.7, -53.4);190d9be3-7556-419d-b7ae-981a908f7327;2;3;3;08.31.2021 19:45:19.318
+auch ganz schön die tönte;Positive;(28.5, 1.7, -50.0);6cc3d507-c54d-4b75-afdb-70c4ca0d5d85;2;3;3;08.31.2021 19:45:19.318
+zuzusehen Bürger trotz stünden;Neutral;(35.1, 1.7, -56.5);87f64be7-11ae-4ac4-ad1a-3e00f7aee8ba;2;3;3;08.31.2021 19:45:19.318
+desto einfacher;Negative;(-21.5, 1.6, -84.8);2951a58b-c014-421f-a3c4-b703e207fe09;2;3;3;08.31.2021 19:45:19.318
